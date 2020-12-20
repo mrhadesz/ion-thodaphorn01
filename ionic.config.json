@@ -1,0 +1,7 @@
+{
+  "name": "ion-Thodsaphorn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
